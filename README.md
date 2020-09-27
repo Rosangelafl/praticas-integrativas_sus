@@ -1,4 +1,4 @@
-# Estudo das práticas integrativas de saúde na rede de atenção básica do SUS
+Estudo das práticas integrativas de saúde na rede de atenção básica do SUS
 
 Com dados do Datasus de outubro de 2018
 
